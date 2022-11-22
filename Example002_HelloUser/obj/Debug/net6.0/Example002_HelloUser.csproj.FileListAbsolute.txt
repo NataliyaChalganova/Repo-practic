@@ -1,0 +1,15 @@
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\obj\Debug\net6.0\refint\Example002_HelloUser.dll
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
