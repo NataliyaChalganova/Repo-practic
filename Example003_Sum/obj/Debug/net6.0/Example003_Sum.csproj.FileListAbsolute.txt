@@ -1,0 +1,15 @@
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.exe
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.deps.json
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.runtimeconfig.json
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.dll
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.pdb
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.csproj.AssemblyReference.cache
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.AssemblyInfoInputs.cache
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.AssemblyInfo.cs
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.csproj.CoreCompileInputs.cache
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.dll
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\obj\Debug\net6.0\refint\Example003_Sum.dll
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.pdb
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.genruntimeconfig.cache
+S:\ДОМ-339\Атаскина учеба\Practic\Repo\Examples\Example003_Sum\obj\Debug\net6.0\ref\Example003_Sum.dll
